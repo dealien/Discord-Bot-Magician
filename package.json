@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot-magician",
+  "version": "1.0.0",
+  "description": "A practice Discord bot.",
+  "main": "browser.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dealien/Discord-Bot-Magician.git"
+  },
+  "author": "dealien <dragonofawsome@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dealien/Discord-Bot-Magician/issues"
+  },
+  "homepage": "https://github.com/dealien/Discord-Bot-Magician#readme",
+  "devDependencies": {
+    "discord.io": "^2.4.0",
+    "grunt": "^1.0.1",
+    "grunt-open": "^0.2.3"
+  }
+}

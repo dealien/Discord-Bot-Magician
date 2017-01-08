@@ -17,8 +17,5 @@
   },
   "homepage": "https://github.com/dealien/Discord-Bot-Magician#readme",
   "devDependencies": {
-    "discord.io": "^2.4.0",
-    "grunt": "^1.0.1",
-    "grunt-open": "^0.2.3"
   }
 }
